@@ -153,7 +153,7 @@ Doing it through the command line Optical Character Recognition (ocr) tools coul
 
 * A bookmarklet could be created by bookmarking/starring the page and then editing the bookmark to put the JavaScript code in place of the URL field. Then when loading the bookmark it will give you a pop-up with the flag. Note that in Chrome to edit the bookmark you have to click the bookmark to edit it and under "Folder" go to "Choose another folder..." to see these options.
 
-# **Collaborative Development**
+# **Collaborative Development**<code>General skill</code>
 
 ![Screenshot_2024-10-19_00_05_10](https://github.com/user-attachments/assets/daf47772-349b-4cfc-9eda-e9cf6e23338f)
 
